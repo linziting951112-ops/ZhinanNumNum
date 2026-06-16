@@ -1,0 +1,6 @@
+gradio
+openai
+chromadb
+pandas
+langchain-community
+pypdf
