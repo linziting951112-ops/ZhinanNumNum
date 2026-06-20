@@ -116,7 +116,11 @@ Restaurant information was sourced from public Google Maps listings and customer
 ## References
 
 OpenAI — text-embedding-3-small and gpt-4o-mini (https://platform.openai.com/docs)
+
 ChromaDB — open-source vector database (https://www.trychroma.com)
+
 LangChain PyPDFLoader document loader (https://python.langchain.com)
+
 Gradio — web UI framework (https://www.gradio.app)
+
 Lewis et al., "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks," 2020.
