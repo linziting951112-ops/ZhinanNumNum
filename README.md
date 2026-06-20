@@ -104,7 +104,7 @@ Member 1: 111ZU1025 徐語歆: data collection and cleaning, presentation slides
 
 Member 2: 114ZU1005 張亦漩: data collection and cleaning, presentation slides and posters.
 
-Member 3: 114ZU1011 林子庭: data collection and cleaning, presentation slides and poster, RAG implementation, CSV → PDF data pipeline, and Hugging Face deployment, github writing.
+Member 3: 114ZU1011 林子庭: data collection and cleaning, presentation slides and poster, RAG implementation, CSV → PDF data pipeline, Hugging Face deployment, and github writing.
 
 Member 4: 114ZU1054 洪瑋婕: data collection and cleaning, presentation slides and poster.
 
